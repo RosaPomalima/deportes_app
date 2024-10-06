@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302208760804",
+    "project_id": "appgrass-775ab",
+    "storage_bucket": "appgrass-775ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302208760804:android:52f6d8aa1ac7dd6961e5f1",
+        "android_client_info": {
+          "package_name": "com.deporte.deporte_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5mJa73HnCodAsiNia4b0UGD5BTyFV6Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
